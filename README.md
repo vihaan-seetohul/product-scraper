@@ -20,7 +20,7 @@ recovery, and CLI design.
 ## Installation
 
 ```bash
-git clone https://github.com/vseetohul/product-scraper.git
+git clone https://github.com/vihaanseetohul/product-scraper.git
 cd product-scraper
 pip install -r requirements.txt
 ```
